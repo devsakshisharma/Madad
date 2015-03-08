@@ -1,0 +1,2 @@
+# Madad
+The objective of this app is to help people . By using this app you can stop child labour ,  Corruption , Violence near you and you can also stop people from spreading filth in your area by complaining against them in Nagar Nigam. This app is totally depends upon you if you are interested in helping INDIA from violence , corruption, child labour and pollution. If nobody is listening your complain then you can also post the complain on facebook and send it to various news channels/papers .
