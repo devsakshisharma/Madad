@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Madad</string>
+    <string name="btnTakePicture">Capture Image</string>
+    <string name="btnRecordVideo">Record Video</string>
+    <string name="or">(or)</string>
+    <string name="btnUploadToServer">Upload to Server</string>
+    <string name="icon_desc">This is a icon</string>
+    <string name="voilence_btn">Voilence</string>
+    <string name="corruption_btn">Corruption</string>
+    <string name="child_labour">Child Labour</string>
+    <string name="swaksh_bharat_btn">Swaksh Bharat</string>
+    <string name="description">Description</string>
+    <string name="voilence_note">This app will send your information and Image/Video to nearest police station. Police will be there as soon as possible. We Do not have any responsibility for the content you upload. So Please be specific and accurate. </string>
+    <string name="enter">Enter</string>
+    <string name="hint_description">Enter Description of your Image/Video (optional)</string>
+    <string name="about">The objective of this app is to help people. By using this app you can stop child labour, corruption , voilence near you and you can also stop people from spreading filth in your area by just taking the picture. This app totally depends on you. If nobody is listening your complain then you can also shout on facebook using this app and send it to various News channels/papers.      If we are able to reduce even slight percent of the problems of our country then it will be honour for us. India not a developed country hence we donot have enough resources to solve/stop all these problems but we are on second position in population all over the world . So if we help each other then we can solve the problems of each other and our country too.</string>
+    <string name="corruption_note">This app will send your information and Image/Video to Police station/news .Police and media will take action as soon as possible. We Do not have any responsibility for the content you upload. So Please be specific and accurate. </string>
+    <string name="child_labour_note">This app will send your information and Image/Video to Nearest NGO .NGOs will help the child as soon as possible. We Do not have any responsibility for the content you upload. So Please be specific and accurate. </string>
+    <string name="swaksh_bharat_note">This app will send your information and Image/Video to Nagar Nigam . Nagar Nigam will take action as soon as possible. We Do not have any responsibility for the content you upload. So Please be specific and accurate. </string>
+    <string name="women_helpline">Women Helpline (Delhi)</string>
+    <string name="ambulance">Ambulance</string>
+    <string name="ambulance_no">102</string>
+    <string name="fire">Fire Service</string>
+    <string name="fire_no">101</string>
+    <string name="alchohol">Alchohol And Drugs</string>
+    <string name="alchohol_no">04027790278</string>
+    <string name="child_abuse">Child Abuse</string>
+   
+    <string name="domestic_abuse">Domestic Abuse and Sexual Voilence </string>
+    <string name="domestic_abuse_no">181</string>
+    <string name="just_dial">Just Dial</string>
+    <string name="just_dial_no">08888888888</string>
+    <string name="suicide_crisis">Suicede/Crisis</string>
+    <string name="suice_crisis_no">0144-27546669</string>
+    <string name="women_helpline_no">1096 , 181</string>
+    <string name="police_headquarter">Police Headquarter</string>
+    
+
+</resources>
